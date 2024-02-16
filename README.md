@@ -7,7 +7,7 @@
 **Best viewed on Desktop**
 
 <p align="center">
-  <img src="/public/demo.PNG" alt="Image Description" width="300" height="200" />
+  <img src="/public/demo.PNG" alt="Image Description" width="100%" />
 </p>
 
 
