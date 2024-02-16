@@ -1,4 +1,8 @@
-<!-- SonarCloud Codes Here -->
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=meJubair_CalculatorTS&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=meJubair_CalculatorTS)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=meJubair_CalculatorTS&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=meJubair_CalculatorTS)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=meJubair_CalculatorTS&metric=bugs)](https://sonarcloud.io/summary/new_code?id=meJubair_CalculatorTS)
 
 **Best viewed on Desktop**
 
