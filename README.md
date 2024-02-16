@@ -6,6 +6,11 @@
 
 **Best viewed on Desktop**
 
+<p align="center">
+  <img src="/public/demo.PNG" alt="Image Description" width="300" height="200" />
+</p>
+
+
 # Simple Calculator App
 
 The Simple Calculator App is a basic calculator built using React.js, TypeScript and Material-UI. It allows users to perform simple arithmetic calculations such as addition, subtraction, multiplication, and division.
