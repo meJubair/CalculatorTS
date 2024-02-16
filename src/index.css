@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+body {
+  margin: 0;
+  display: flex;
+  
+  box-sizing: border-box;
+  background-color: #1976d2;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  place-items: center;
+  overflow: hidden !important;
+}
+
+#root {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  place-items: center !important;
+  text-align: center !important;
+  max-width: 50% !important;
+  height: 100% !important;
+  background-color: #1976d2 !important;
+}
+
+.MuiGrid-root {
+  width: 50% !important;
+}
+
+/* .MuiGrid-container {
+  width: 50% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.MuiGrid-item {
+  background-color: #f0f8ff;
+} */
+
+@media (max-width: 768px) and (orientation: portrait){
+
+  .MuiGrid-root, .MuiGrid-root .MuiGrid-container .MuiGrid-spacing-xs-1 .css-15sw3lx-MuiGrid-root {
+    width: 100% !important;
+  }
+}
+
+.css-18poc3v-MuiGrid-root {
+  margin-top: 8vh !important;
+}
+
+h3 {
+  font-family: Orbitron, sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  color: #1976d2;
+}
+
+button {
+  aspect-ratio: 1 / 1 !important;
+  padding: 0.5rem !important;
+  font-size: 2rem !important;
+  min-width: 0 !important;
+  border-radius: 6px !important;
+  font-family: Electrolize, sans-serif !important;
+}
+
+input {
+  font-family: Electrolize, sans-serif !important;
+  font-size: 1.5rem !important;
+  color: #1976d2 !important;
+  text-align: right !important;
+}
+
+button:hover {
+  border-color: #1976d2;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  background-color: #1976d2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  place-items: center;
+  font-family: Electrolize, sans-serif;
+  font-size: 5rem !important;
+  color: #f0f8ff;
+}
+
+footer a {
+  text-decoration: none !important;
+}
