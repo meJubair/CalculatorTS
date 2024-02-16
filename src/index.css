@@ -8,7 +8,6 @@ body {
   box-sizing: border-box;
   background-color: #1976d2;
 
-  display: flex;
   justify-content: center;
   align-items: center;
   place-items: center;
@@ -29,16 +28,6 @@ body {
 .MuiGrid-root {
   width: 50% !important;
 }
-
-/* .MuiGrid-container {
-  width: 50% !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.MuiGrid-item {
-  background-color: #f0f8ff;
-} */
 
 @media (max-width: 768px) and (orientation: portrait){
 

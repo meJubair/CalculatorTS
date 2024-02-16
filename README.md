@@ -25,7 +25,7 @@ The Simple Calculator App is a basic calculator built using React.js, TypeScript
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/calculator-app.git
+    git clone https://github.com/meJubair/CalculatorTS.git
     ```
 
 2. Install dependencies:
@@ -40,21 +40,21 @@ The Simple Calculator App is a basic calculator built using React.js, TypeScript
     npm start
     ```
 
-4. Open your browser and navigate to `http://localhost:3000` to view the app.
+4. Open your browser and navigate to `http://localhost:5173` to view the app.
 
 ## Usage
 
 - Enter numbers and perform calculations using the on-screen buttons.
 - Use the keyboard for input and navigation (numbers, operators, Enter to calculate, Escape to clear, Backspace to delete).
 
-## Contributing
+<!-- ## Contributing
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request. -->
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Jubair](https://github.com/meJubair)
