@@ -27,7 +27,6 @@ The Simple Calculator App is a basic calculator built using React.js, TypeScript
 - React.js
 - TypeScript
 - Material-UI
-- math.js
 
 ## Installation
 

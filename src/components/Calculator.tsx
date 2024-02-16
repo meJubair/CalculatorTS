@@ -1,7 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
 import { Box, Button, Container, Grid, Link, TextField, Typography } from '@mui/material';
-import * as math from 'mathjs';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 // Copyright component for footer
@@ -74,7 +73,7 @@ const Calculator: React.FC = () => {
     // Calculate the result
     const handleCalculate = () => {
         try {
-            const result = math.evaluate(input);
+            const result = eval(input);
             setInput(result.toString());
         } catch (error) {
             setInput('Error');
